@@ -1,4 +1,4 @@
-# mimy
+# molimm
 
 My work at [the department of Molecular Immunology and Microbiology](http://mimy.eu) 
 at [the University of Groningen](https://www.rug.nl/staff/departments/18150).
